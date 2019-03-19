@@ -1,10 +1,9 @@
 # welcome bot: A Probot App
-
-DESCRIPTION PLACEHOLDER
+## Introduction:sparkles:
 
 ## What it does
 
-FEATURES PLACEHOLDER
+## Want to access it?
 
 ## Getting started
 
