@@ -34,5 +34,4 @@ firstPRMergeComment: >
 ```
 
 ### Example Messages
-
-CONFIGS PLACEHOLDER
+> It really good choice for you. Don't worry we'll wait and help you when you're in trouble.Let's enjoy it!
